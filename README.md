@@ -25,3 +25,13 @@ A repo containing small programs built for using hand gestures as a substitute f
 ## Presentation_clicker
 The `Presentation_clicker` class allows users to control presentation slides using hand gestures. It leverages computer vision to detect specific gestures and translates them into keyboard inputs, enabling seamless navigation through slides without physical contact with a keyboard or mouse.
 
+### Run following command in terminal to run the presentationclicker
+```bash
+python3 presentation_clicker.py
+```
+### Interactions
+#### Forward
+Show a "peace" sign with your index and middlefinger for 0.3 seconds or longer, this wil trigger one right arrow click
+#### Backard
+Lift your index finger and thumb together in 0.3 seconds or longer, this will triger one left arrow click
+
