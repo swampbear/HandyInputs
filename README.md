@@ -1,6 +1,9 @@
 # HandyInputs
 A repo containing small programs built for using hand gestures as a substitute for keyboard inputs
 
+## Sources
+The class in the hand_estimation.py is retrieved from the following Medium article: [Hand Detection Tracking in Python using OpenCV and MediaPipe](https://gautamaditee.medium.com/hand-recognition-using-opencv-a7b109941c88)
+
 ## Setup repo localy
 1. **Clone the Repository**:
    ```bash
